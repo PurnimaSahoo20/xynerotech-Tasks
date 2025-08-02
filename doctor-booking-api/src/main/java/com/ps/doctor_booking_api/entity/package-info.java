@@ -1,0 +1,1 @@
+package com.ps.doctor_booking_api.entity;
