@@ -42,12 +42,6 @@ Simple Spring Boot backend for managing doctors and appointments with MySQL.
   "specialization": "Cardiologist",
   "contact": "+91-9876543210"
 }
-### Appointments (for create / update)
-```json
-{
-  "patientName": "Amit Sharma",
-  "appointmentTime": "2025-08-10T14:30:00",
-  "reason": "Chest pain evaluation",
-  "status": "SCHEDULED"
-}
+
+
 
